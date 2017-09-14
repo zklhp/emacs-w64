@@ -15,7 +15,7 @@ Only x86-64 version of MS Windows (Windows XP, 7, 8, 8.1, and 10) are supported.
 
 ### USAGES ###
 
-1. Download the binary package (e.g. emacs-bin-w64-25.0.90-O2.7z).
+1. Find and download the version you want on [realease](https://github.com/zklhp/emacs-w64/releases).
 2. Uncompress with [7-Zip](http://www.7-zip.org/) or other software you like.
 3. Double-click the runemacs.exe in emacs/bin.
 
